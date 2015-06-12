@@ -1,5 +1,5 @@
 {
-  "name": "cjsx-loader",
+  "name": "cjsx-prev-loader",
   "description": "coffee-react-transform loader module for webpack",
   "version": "0.2.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
